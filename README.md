@@ -4,7 +4,7 @@ A console-based C# implementation of the "Guess - A - Number" game.
 
 
 
-<img alt="Image" width = "200 px" src= "https://raw.githubusercontent.com/thiagodnf/guess-the-number/master/images/logo.png?token=AAG9XwrL-t72tifQ-eA47lewNBqqV9Nwks5cDnuJwA%3D%3D"/>
+<img alt="Image" width = "400 px" src= "https://raw.githubusercontent.com/thiagodnf/guess-the-number/master/images/logo.png?token=AAG9XwrL-t72tifQ-eA47lewNBqqV9Nwks5cDnuJwA%3D%3D"/>
 
 
 
