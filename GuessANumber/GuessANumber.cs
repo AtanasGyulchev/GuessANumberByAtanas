@@ -1,4 +1,4 @@
-﻿Random random = new Random();
+Random random = new Random();
 bool playAgain = true;
 int min = 1;
 int max = 100;
@@ -47,14 +47,8 @@ while (playAgain)
         playAgain = false;
     }
 }
-Console.WriteLine("Thanks forRandom random = new Random();
-bool playAgain = true;
-int min = 1;
-int max = 100;
-int guess;
-int number;
-int guesses;
-string response;
+
+
 
 while (playAgain)
 {
@@ -96,4 +90,5 @@ while (playAgain)
         playAgain = false;
     }
 }
-Console.WriteLine("Thanks for playing!"); playing!");
+Console.WriteLine("Thanks for playing!"); 
+
