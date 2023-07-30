@@ -24,6 +24,6 @@ The computer selects a random number, then returns information whether the numbe
 
 ## Live Demo
 You can play the game directly in your Web browser here:
-https://replit.com/@AtanasGyulchev/Guess-A-Number-Game
+https://replit.com/@AtanasGyulchev/Guess-A-Number-Game?v=1
 
 
