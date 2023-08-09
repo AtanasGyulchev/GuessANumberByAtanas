@@ -15,7 +15,7 @@ with. The program randomly selects a number between 1 and 100. It will then ask 
 the computer will tell you whether it is lower or higher than the expected number.
 You win the game when your number matches your computer number.
 
-# Input and Output
+## Input and Output
 Choose number between 1 and 100, then press Enter.
 The computer selects a random number, then returns information whether the number is less than, greater than or equal to the selected number.
 
